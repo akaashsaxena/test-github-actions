@@ -6,4 +6,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Echo a string
-        run: echo "hello this is my first test github actions workflow file" 
+        run: echo "hello this is my second test github actions workflow file" 
